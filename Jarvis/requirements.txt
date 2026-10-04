@@ -1,0 +1,32 @@
+# Core Framework & UI
+PyQt5>=5.15.10
+
+# AI & LLM APIs
+groq>=0.11.0
+cohere>=5.0.0
+
+# Speech & Audio
+edge-tts>=6.1.10
+pygame>=2.6.0
+selenium>=4.20.0
+mtranslate>=1.8
+
+# System & Hardware Telemetry
+psutil>=5.9.8
+keyboard>=0.13.5
+AppOpener>=1.7
+pywhatkit>=5.4
+
+# Vision & Image Processing
+mss>=9.0.1
+opencv-python>=4.9.0.80
+Pillow>=10.2.0
+
+# Web Intelligence & Networking
+duckduckgo-search>=6.2.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+
+# Utilities & CLI Formatting
+python-dotenv>=1.0.1
+rich>=13.7.1

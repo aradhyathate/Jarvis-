@@ -1,0 +1,442 @@
+[
+    {
+        "role": "user",
+        "content": "Hello, who are you and what year is it?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis. The year is 2026."
+    },
+    {
+        "role": "user",
+        "content": "what is the capital of France?"
+    },
+    {
+        "role": "assistant",
+        "content": "The capital of France is Paris."
+    },
+    {
+        "role": "user",
+        "content": "Give a 10-word summary of artificial intelligence."
+    },
+    {
+        "role": "assistant",
+        "content": "Machines simulate human intelligence to learn, reason, and solve complex problems."
+    },
+    {
+        "role": "user",
+        "content": "what is the tallest mountain?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty; however, Mount Everest is the tallest mountain above sea level."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am functioning normally."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about today's ii for apple event which is conducted?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about today's event of apple which is conducted?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about yourself."
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, an advanced AI chatbot."
+    },
+    {
+        "role": "user",
+        "content": "Tell me in detail about yourself."
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, an advanced AI chatbot designed to provide accurate, real-time information and concise answers to your queries."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about yourself."
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, an accurate and advanced AI chatbot with real-time internet access."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about yourself in detail."
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis, an advanced AI chatbot. I provide accurate, real-time information from the internet and answer your questions concisely in English."
+    },
+    {
+        "role": "user",
+        "content": "Se jarvis in progress."
+    },
+    {
+        "role": "assistant",
+        "content": "I am operational and ready to assist you."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis wake up."
+    },
+    {
+        "role": "assistant",
+        "content": "I am online and ready."
+    },
+    {
+        "role": "user",
+        "content": "Search on internet about the iron man movie."
+    },
+    {
+        "role": "assistant",
+        "content": "*Iron Man* (2008) is an American superhero film based on the Marvel Comics character, directed by Jon Favreau and produced by Marvel Studios. It stars Robert Downey Jr. as Tony Stark, a genius industrialist who builds a high-tech suit of armor after being kidnapped. The film was a critical and commercial success, marking the beginning of the Marvel Cinematic Universe (MCU)."
+    },
+    {
+        "role": "user",
+        "content": "The jarvis which is present in the iron man movie what is difference between that and you?"
+    },
+    {
+        "role": "assistant",
+        "content": "The fictional Jarvis in *Iron Man* is a personified AI with emotional capabilities and physical integration into Tony Stark\u2019s suit, while I am a real-world language model focused on providing accurate, real-time information and concise answers without emotional intelligence or physical presence."
+    },
+    {
+        "role": "user",
+        "content": "Search on internet about the event of apple which is occur today?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Search on internet about the apple event."
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Search about the apple event of announcing iphone 18."
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about the marvel cinematography."
+    },
+    {
+        "role": "assistant",
+        "content": "I assume you meant \"Marvel Cinematic Universe\" (MCU) or its filmmaking style, as \"cinematography\" refers specifically to camera work. The MCU is a media franchise and shared universe consisting of superhero films and television series produced by Marvel Studios. It began with *Iron Man* in 2008 and is known for its interconnected storylines, consistent visual tone, and large ensemble casts."
+    },
+    {
+        "role": "user",
+        "content": "Tell me in detail about the marvel universe."
+    },
+    {
+        "role": "assistant",
+        "content": "The Marvel Cinematic Universe (MCU) is a shared universe of superhero films and TV series produced by Marvel Studios, beginning with *Iron Man* in 2008. It is characterized by interconnected storylines, a consistent visual style, and a vast ensemble cast. Key phases include the Infinity Saga, which concluded with *Avengers: Endgame*, and the Multiverse Saga. The universe features complex character arcs, crossovers between films and shows, and a blend of action, drama, and sci-fi elements, making it one of the most successful film franchises in history."
+    },
+    {
+        "role": "user",
+        "content": "Tell me again."
+    },
+    {
+        "role": "assistant",
+        "content": "The Marvel Cinematic Universe (MCU) is a shared universe of superhero films and TV series produced by Marvel Studios, starting with *Iron Man* in 2008. It features interconnected storylines, a consistent visual style, and a large ensemble cast. The franchise is divided into phases, including the Infinity Saga and the Multiverse Saga, known for complex character arcs, crossovers, and a blend of action, drama, and science fiction."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye."
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "Who are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I am Jarvis."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about today's something happen in worldwide."
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "What is today's news?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Today's stock market analysis."
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "What is today's stock market?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye."
+    },
+    {
+        "role": "user",
+        "content": "Google Summer of Code 2026 program"
+    },
+    {
+        "role": "assistant",
+        "content": "Google Summer of Code 2026 is a global, online program that connects new contributors with open source organizations for 12+ week programming projects under mentor guidance. Participants must be at least 18 years old, not based in a U.S.-embargoed country, and work on projects released under an OSI-approved license. The program marks its 22nd year, having brought over 23,000 new developers into the open source community."
+    },
+    {
+        "role": "user",
+        "content": "Dengue fever transmission and primary symptoms"
+    },
+    {
+        "role": "assistant",
+        "content": "Dengue fever is primarily transmitted through the bite of an infected *Aedes* mosquito, though rare transmission can occur via blood transfusions, organ transplants, or needlestick injuries. Primary symptoms typically appear 3 to 14 days after infection and include high fever, headache, vomiting, muscle and joint pains, and a characteristic skin rash."
+    },
+    {
+        "role": "user",
+        "content": "Hey jarvis jarvis are you there."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes, I am here."
+    },
+    {
+        "role": "user",
+        "content": "Tell me about the google summer of port program."
+    },
+    {
+        "role": "assistant",
+        "content": "I assume you meant the Google Summer of Code (GSoC) program, as \"Summer of Port\" is not a standard Google program. GSoC is a global, online program that connects new contributors with open source organizations for 12+ week programming projects under mentor guidance."
+    },
+    {
+        "role": "user",
+        "content": "What is today's news?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "What is the latest news today?"
+    },
+    {
+        "role": "assistant",
+        "content": "As of September 11, 2026, China\u2019s foreign ministry confirmed that President Xi Jinping will attend the BRICS Summit in India on September 12\u201313, where he is likely to meet with Prime Minister Narendra Modi. The UK has also accused Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers. In India, the Supreme Court is hearing a notice regarding the delay in issuing birth and death certificates in Karnataka, with officials stating that VIPs will not be inconvenienced during the process."
+    },
+    {
+        "role": "user",
+        "content": "When is apple's next event and where it will happen?"
+    },
+    {
+        "role": "assistant",
+        "content": "Apple\u2019s next event is scheduled for Wednesday, September 9, 2026, at the Apple Park campus in Cupertino, California. The event is titled \"Surprise and Shine\" and is expected to debut the iPhone 18 Pro, a first-ever foldable iPhone, and new Apple TV hardware."
+    },
+    {
+        "role": "user",
+        "content": "What happened in the ai industry in the last 24 hours?"
+    },
+    {
+        "role": "assistant",
+        "content": "In the last 24 hours, Goldman Sachs chief economist Jan Hatzius warned that the current AI investment boom will not last forever. This commentary emerged alongside ongoing industry developments regarding new model launches, infrastructure investments, and enterprise AI adoption."
+    },
+    {
+        "role": "user",
+        "content": "News comes from air industry."
+    },
+    {
+        "role": "assistant",
+        "content": "Recent aviation news includes the US Department of the Treasury sanctioning 36 targets across Iran\u2019s aviation sector on September 8, 2026, including 27 Iranian airlines. Air India is seeking $1.1 billion from its owners following a crash and airspace restrictions, while also planning to induct over 100 new planes within the next two years. Additionally, AFI KLM E&M has expanded its maintenance partnership with Air Corsica to cover nine LEAP-1A engines."
+    },
+    {
+        "role": "user",
+        "content": "Who is a solar event individual?"
+    },
+    {
+        "role": "assistant",
+        "content": "A solar particle event (SPE), also known as a solar energetic particle event or solar radiation storm, is a solar phenomenon where particles emitted by the Sun, mostly protons, are accelerated in the Sun's atmosphere during a solar flare or in interplanetary space by a coronal mass ejection shock."
+    },
+    {
+        "role": "user",
+        "content": "Any specific event will occur in space."
+    },
+    {
+        "role": "assistant",
+        "content": ""
+    },
+    {
+        "role": "user",
+        "content": "Hello."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "When apple?"
+    },
+    {
+        "role": "assistant",
+        "content": "Apple's next event is scheduled for September 9, 2026."
+    },
+    {
+        "role": "user",
+        "content": "What is today's news?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "What is today's news?"
+    },
+    {
+        "role": "assistant",
+        "content": "The provided search results are empty."
+    },
+    {
+        "role": "user",
+        "content": "About google summer core program."
+    },
+    {
+        "role": "assistant",
+        "content": "The Google Summer of Code (GSoC) is a global, online program that connects new contributors with open source organizations for 12+ week programming projects under mentor guidance. Participants must be at least 18 years old, not based in a U.S.-embargoed country, and work on projects released under an OSI-approved license."
+    },
+    {
+        "role": "user",
+        "content": "Jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Yes?"
+    },
+    {
+        "role": "user",
+        "content": "Okay, bye."
+    },
+    {
+        "role": "assistant",
+        "content": "Goodbye."
+    },
+    {
+        "role": "user",
+        "content": "Hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello."
+    },
+    {
+        "role": "user",
+        "content": "Check which window exist in my pc?"
+    },
+    {
+        "role": "assistant",
+        "content": "I cannot access or check the windows on your personal computer."
+    },
+    {
+        "role": "user",
+        "content": "Okay check which process is present in the laptop?"
+    },
+    {
+        "role": "assistant",
+        "content": "I cannot access or monitor the processes running on your laptop."
+    },
+    {
+        "role": "user",
+        "content": "Salman khan."
+    },
+    {
+        "role": "assistant",
+        "content": "Salman Khan is an Indian actor, film producer, and television personality born on December 27, 1965, who has worked primarily in Hindi cinema for over three decades. He is one of the most commercially successful actors in Indian cinema, having starred in over 80 films and hosted the reality show *Bigg Boss* since 2010. Khan has received two National Film Awards as a producer and two Filmfare Awards as an actor, and he promotes humanitarian causes through his Being Human Foundation."
+    },
+    {
+        "role": "user",
+        "content": "Who is rdj?"
+    },
+    {
+        "role": "assistant",
+        "content": "RDJ is the common abbreviation for Robert Downey Jr., the American actor born on April 4, 1965. He is internationally renowned for his role as Tony Stark (Iron Man) in the Marvel Cinematic Universe."
+    },
+    {
+        "role": "user",
+        "content": "Flipkart."
+    },
+    {
+        "role": "assistant",
+        "content": "Flipkart is an Indian multinational e-commerce company founded in 2007 by Sachin Bansal and Binny Bansal. It is currently a subsidiary of Walmart and operates as one of the largest online marketplaces in India, offering a wide range of products including electronics, fashion, and home goods."
+    }
+]
